@@ -1,0 +1,8 @@
+
+
+.lost .player {
+  background: rgb(185, 30, 30);
+}
+.won .player {
+  box-shadow: -4px -7px 8px white, 4px -7px 8px white;
+}
